@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/bottom_nav_item_background.xml" value="0.12" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/bubble_background.xml" value="0.1065" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_angular_left_back.xml" value="0.121" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.121" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.121" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_chat_bubble_24.xml" value="0.121" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_checklist_24.xml" value="0.121" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_grid_3x3_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.121" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.121" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_person_add_alt_1_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_pin_drop_24.xml" value="0.121" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_baseline_tune_24.xml" value="0.121" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_outline_chat_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_outline_group_work_24.xml" value="0.121" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/ic_outline_perm_contact_calendar_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/rounded_button_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/rounded_button_white_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/rounded_edit_text_background.xml" value="0.121" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/rounded_icon_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/rounded_image_corners.xml" value="0.12" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/rounded_image_view.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/rounded_progress_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/rounded_progress_drawable.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/rounded_search_background.xml" value="0.12" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/drawable/rounded_spinner_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/activity_explore.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/activity_refine.xml" value="0.25" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/content_explore.xml" value="0.25" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/content_refine.xml" value="0.1875" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_business.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_chat.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_contacts.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_explore.xml" value="0.25" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_first2.xml" value="0.25" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_groups.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_home.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_merchant.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_network.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_notifications.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_personal.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_second.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/fragment_second2.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/popup_seekbar_progress.xml" value="0.25" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/recycler_business_line_item.xml" value="0.25" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/recycler_merchant_line_item.xml" value="0.25" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/layout/recycler_personal_line_item.xml" value="0.25" />
+        <entry key="..\:/Users/Ramith/AndroidStudioProjects/NetclanExplorer/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

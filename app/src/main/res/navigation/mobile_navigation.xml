@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_explore">
+
+    <fragment
+        android:id="@+id/navigation_explore"
+        android:name="com.ramith.netclanexplorer.ui.home.HomeFragment"
+        android:label="Explore"
+        tools:layout="@layout/fragment_explore" />
+
+    <fragment
+        android:id="@+id/navigation_network"
+        android:name="com.ramith.netclanexplorer.ui.network.NetworkFragment"
+        android:label="Network"
+        tools:layout="@layout/fragment_network" />
+
+    <fragment
+        android:id="@+id/navigation_chat"
+        android:name="com.ramith.netclanexplorer.ui.chat.ChatFragment"
+        android:label="Chat"
+        tools:layout="@layout/fragment_chat" />
+
+    <fragment
+        android:id="@+id/navigation_contacts"
+        android:name="com.ramith.netclanexplorer.ui.contacts.ContactsFragment"
+        android:label="Contacts"
+        tools:layout="@layout/fragment_contacts" />
+
+    <fragment
+        android:id="@+id/navigation_groups"
+        android:name="com.ramith.netclanexplorer.ui.groups.GroupsFragment"
+        android:label="Groups"
+        tools:layout="@layout/fragment_groups" />
+</navigation>
